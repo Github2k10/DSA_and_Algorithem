@@ -53,7 +53,3 @@ public class MergeSort{
         sc.close();
     }
 }
-
-
-
-
