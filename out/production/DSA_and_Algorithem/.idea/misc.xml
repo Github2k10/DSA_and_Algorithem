@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="14">
+      <item index="0" class="java.lang.String" itemvalue="org.springframework.web.bind.annotation.GetMapping" />
+      <item index="1" class="java.lang.String" itemvalue="org.springframework.web.bind.annotation.PostMapping" />
+      <item index="2" class="java.lang.String" itemvalue="org.springframework.web.bind.annotation.PutMapping" />
+      <item index="3" class="java.lang.String" itemvalue="org.springframework.web.bind.annotation.DeleteMapping" />
+      <item index="4" class="java.lang.String" itemvalue="org.springframework.web.bind.annotation.RequestMapping" />
+      <item index="5" class="java.lang.String" itemvalue="org.springframework.beans.factory.annotation.Value" />
+      <item index="6" class="java.lang.String" itemvalue="org.springframework.beans.factory.annotation.Autowired" />
+      <item index="7" class="java.lang.String" itemvalue="org.springframework.beans.factory.annotation.Qualifier" />
+      <item index="8" class="java.lang.String" itemvalue="org.springframework.context.annotation.Bean" />
+      <item index="9" class="java.lang.String" itemvalue="javax.annotation.PostConstruct" />
+      <item index="10" class="java.lang.String" itemvalue="javax.annotation.PreDestroy" />
+      <item index="11" class="java.lang.String" itemvalue="javax.annotation.Resource" />
+      <item index="12" class="java.lang.String" itemvalue="javax.annotation.Resources" />
+      <item index="13" class="java.lang.String" itemvalue="org.springframework.scheduling.annotation.Scheduled" />
+    </list>
+    <writeAnnotations>
+      <writeAnnotation name="org.springframework.beans.factory.annotation.Value" />
+      <writeAnnotation name="org.springframework.beans.factory.annotation.Autowired" />
+      <writeAnnotation name="org.springframework.beans.factory.annotation.Qualifier" />
+      <writeAnnotation name="javax.annotation.Resource" />
+      <writeAnnotation name="javax.annotation.Resources" />
+    </writeAnnotations>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
